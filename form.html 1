@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>form</title>
+</head>
+<body>
+<form>
+username<input type= "text"><br>
+password<input type= "password"><br>
+Gender<input type="radio" value="male"> male
+       <input type="radio" value="female"> female<br>
+Subject<input type="checkbox" value ="DS">DS
+       <input type="checkbox" value ="AI">AI
+       <input type="checkbox" value= "JAVA">JAVA
+       <input type="checkbox" value= "ML">ML<br>
+about<br>
+this is about a web development<br>
+Submit<input type="submit" value="submit"><br>
+</form>
+</body>
+</html>
